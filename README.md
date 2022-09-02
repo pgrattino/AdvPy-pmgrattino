@@ -23,3 +23,15 @@
 | Location    | https://github.com/pgrattino/AdvPy-pmgrattino/tree/main/project0                                    |
 | Self Grade  | 100/100                                                                                             |
 | Notes       | completed all the requirements and tested program many times; screenshot found in the same location |
+
+### Assignment #1
+
+| Name        | Value                                                           |
+| :---------- | :-------------------------------------------------------------- |
+| Name        | Hangman Game                                                    |
+| Description | Hangman game written in python                                  |
+| Due Date    | 6-Oct-22                                                        |
+| Status      | In progress                                                     |
+| Location    | https://github.com/pgrattino/AdvPy-pmgrattino/tree/main/hangman |
+| Self Grade  | NA/100                                                          |
+| Notes       | NA                                                              |
