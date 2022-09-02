@@ -14,4 +14,4 @@ def words():
 
 
 print(words())
-stages.stage5()
+stages.stage6()

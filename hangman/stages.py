@@ -11,7 +11,7 @@ def stage0():
 
 
 def stage1():
-    # This is just all of the ASCII art for the start stage
+    # This is the ASCII art for the first wrong answer
     print("|________________")
     print("|/              |")
     print("|               O")
@@ -23,7 +23,7 @@ def stage1():
 
 
 def stage2():
-    # This is just all of the ASCII art for the start stage
+    # This is the ASCII art for the second wrong answer
     print("|________________")
     print("|/              |")
     print("|               O")
@@ -35,7 +35,7 @@ def stage2():
 
 
 def stage3():
-    # This is just all of the ASCII art for the start stage
+    # This is the ASCII art for the third wrong answer
     print("|________________")
     print("|/              |")
     print("|               O")
@@ -47,7 +47,7 @@ def stage3():
 
 
 def stage4():
-    # This is just all of the ASCII art for the start stage
+    # This is the ASCII art for the fourth wrong answer
     print("|________________")
     print("|/              |")
     print("|               O")
@@ -59,7 +59,7 @@ def stage4():
 
 
 def stage5():
-    # This is just all of the ASCII art for the start stage
+    # This is the ASCII art for the 5th wrong answer
     print("|________________")
     print("|/              |")
     print("|               O")
@@ -70,8 +70,8 @@ def stage5():
     print("|\_______________")
 
 
-def stage5():
-    # This is just all of the ASCII art for the start stage
+def stage6():
+    # This is the ASCII art for the 6th wrong answer
     print("|________________")
     print("|/              |")
     print("|               O")
