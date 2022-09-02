@@ -1,5 +1,6 @@
 #!/Users/peyton/Library/Python
 import random
+import stages  # This is the ASCII art for the different stages of the game
 
 
 def words():
@@ -13,3 +14,4 @@ def words():
 
 
 print(words())
+stages.stage5()
