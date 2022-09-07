@@ -12,6 +12,8 @@ def words():
     useWord = useWord.strip()  # Stripping the word of any extra characters
     return useWord  # Return the word for the game
 
+def game():
+    #hold
 
 print(words())
 stages.stage6()
