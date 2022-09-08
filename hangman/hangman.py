@@ -12,8 +12,23 @@ def words():
     useWord = useWord.strip()  # Stripping the word of any extra characters
     return useWord  # Return the word for the game
 
-def game():
-    #hold
 
-print(words())
-stages.stage6()
+def printingWord():
+    gameWord = words()  # Store the word for the game
+    wordLength = ["_"] * len(gameWord)  # getting the length of the word
+    # print(gameWord)
+    print(" ".join(wordLength))
+    return 0
+
+
+def game(tries):
+    if tries == 0:
+        stages.stage0()
+        printingWord()
+    return tries
+
+
+tries = 0
+while tries <= 7:
+    game(tries)
+# forever loop!
