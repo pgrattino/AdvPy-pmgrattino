@@ -32,5 +32,3 @@ tries = 0
 while tries <= 7:
     game(tries)
 # forever loop!
-
-#hello kyle
