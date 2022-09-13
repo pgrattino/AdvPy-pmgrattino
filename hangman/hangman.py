@@ -13,22 +13,16 @@ def words():
     return useWord  # Return the word for the game
 
 
-def printingWord():
-    gameWord = words()  # Store the word for the game
-    wordLength = ["_"] * len(gameWord)  # getting the length of the word
+#def printingWord():
     # print(gameWord)
-    print(" ".join(wordLength))
-    return 0
+    #print(" ".join(wordLength))  # Printing the _ with out the quotes and brackets
 
 
-def game(tries):
-    if tries == 0:
-        stages.stage0()
-        printingWord()
-    return tries
+def game(useWord):
+    tries = 6
+    useWord = useWord.strip()
+    wordLength = ["_"] * len(useWord)
+    while tries >= 0:
+        
 
-
-tries = 0
-while tries <= 7:
-    game(tries)
-# forever loop!
+game(words())
