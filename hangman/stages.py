@@ -80,3 +80,20 @@ def stage6():
     print("|")
     print("|")
     print("|\_______________")
+
+
+def stageControl(tries):
+    if tries == 6:
+        stage0()
+    if tries == 5:
+        stage1()
+    if tries == 4:
+        stage2()
+    if tries == 3:
+        stage3()
+    if tries == 2:
+        stage4()
+    if tries == 1:
+        stage5()
+    if tries == 0:
+        stage6()
