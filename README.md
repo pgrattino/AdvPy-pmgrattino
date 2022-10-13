@@ -26,12 +26,12 @@
 
 ### Assignment #1
 
-| Name        | Value                                                           |
-| :---------- | :-------------------------------------------------------------- |
-| Name        | Hangman Game                                                    |
-| Description | Hangman game written in python                                  |
-| Due Date    | 6-Oct-22                                                        |
-| Status      | In progress                                                     |
-| Location    | https://github.com/pgrattino/AdvPy-pmgrattino/tree/main/hangman |
-| Self Grade  | NA/100                                                          |
-| Notes       | NA                                                              |
+| Name        | Value                                                                                                                          |
+| :---------- | :----------------------------------------------------------------------------------------------------------------------------- |
+| Name        | Hangman Game                                                                                                                   |
+| Description | Hangman game written in python                                                                                                 |
+| Due Date    | 13-Oct-22                                                                                                                      |
+| Status      | Done                                                                                                                           |
+| Location    | https://github.com/pgrattino/AdvPy-pmgrattino/tree/main/hangman                                                                |
+| Self Grade  | 95/100                                                                                                                         |
+| Notes       | I tested this program extensivly, there were a few bugs that I didn't have time to correct but the game still works perfectly. |
