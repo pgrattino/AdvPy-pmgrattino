@@ -35,3 +35,31 @@
 | Location    | https://github.com/pgrattino/AdvPy-pmgrattino/tree/main/hangman                                                                |
 | Self Grade  | 95/100                                                                                                                         |
 | Notes       | I tested this program extensivly, there were a few bugs that I didn't have time to correct but the game still works perfectly. |
+
+### Assignment #2
+
+| Name        | Value                                                                         |
+| :---------- | :---------------------------------------------------------------------------- |
+| Name        | kattis                                                                        |
+| Description | Vairus Kattis problems of 1.9 or higher                                       |
+| Due Date    | 15-Nov-22                                                                     |
+| Status      | In Progress                                                                   |
+| Location    | https://github.com/pgrattino/AdvPy-pmgrattino/tree/main/kattis                |
+| Self Grade  | NA                                                                            |
+| Notes       | Please refer to the guides below about the internal files for this assignment |
+
+## Aaah!
+
+| Name             | Value                                 |
+| :--------------- | :------------------------------------ |
+| Name             | Aaah!                                 |
+| Difficulty       | 1.9                                   |
+| Link to original | https://open.kattis.com/problems/aaah |
+
+## ABC
+
+| Name             | Value                                |
+| :--------------- | :----------------------------------- |
+| Name             | ABC                                  |
+| Difficulty       | 2.0                                  |
+| Link to original | https://open.kattis.com/problems/abc |
