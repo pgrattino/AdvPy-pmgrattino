@@ -38,15 +38,15 @@
 
 ### Assignment #2
 
-| Name        | Value                                                                         |
-| :---------- | :---------------------------------------------------------------------------- |
-| Name        | kattis                                                                        |
-| Description | Vairus Kattis problems of 1.9 or higher                                       |
-| Due Date    | 15-Nov-22                                                                     |
-| Status      | In Progress                                                                   |
-| Location    | https://github.com/pgrattino/AdvPy-pmgrattino/tree/main/kattis                |
-| Self Grade  | NA                                                                            |
-| Notes       | Please refer to the guides below about the internal files for this assignment |
+| Name        | Value                                                                                                                                                       |
+| :---------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Name        | kattis                                                                                                                                                      |
+| Description | Vairus Kattis problems of 1.9 or higher                                                                                                                     |
+| Due Date    | 15-Nov-22                                                                                                                                                   |
+| Status      | Done                                                                                                                                                        |
+| Location    | https://github.com/pgrattino/AdvPy-pmgrattino/tree/main/kattis                                                                                              |
+| Self Grade  | 70/100                                                                                                                                                      |
+| Notes       | I solved all the 4 problems over 1.9 difficulty but I did not have test cases for the programs. Screenshots of submissions are in the folders with the code |
 
 ## Aaah!
 
@@ -63,3 +63,19 @@
 | Name             | ABC                                  |
 | Difficulty       | 2.0                                  |
 | Link to original | https://open.kattis.com/problems/abc |
+
+## Buka
+
+| Name             | Value                                 |
+| :--------------- | :------------------------------------ |
+| Name             | Buka                                  |
+| Difficulty       | 1.9                                   |
+| Link to original | https://open.kattis.com/problems/buka |
+
+## Cinema
+
+| Name             | Value                                   |
+| :--------------- | :-------------------------------------- |
+| Name             | Cinema                                  |
+| Difficulty       | 2.4                                     |
+| Link to original | https://open.kattis.com/problems/cinema |
