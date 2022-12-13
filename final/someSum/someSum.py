@@ -1,6 +1,4 @@
-def main():
-    n = int(input())
-    
+def solve(n):
     test = n % 4
 
     if test == 0:
@@ -10,7 +8,11 @@ def main():
     else:
         print("Either")
 
+def userIn():
+    n = int(input())
+    solve(n)
+
 if __name__ == "__main__":
-    main()
+    userIn()
 
     

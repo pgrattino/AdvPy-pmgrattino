@@ -90,7 +90,7 @@
 | Status      | In-Progress                                                                                     |
 | Location    | https://github.com/pgrattino/AdvPy-pmgrattino/tree/main/final                                   |
 | Self Grade  | NA                                                                                              |
-| Notes       | I solved the three problems with screenshots that were required with test cases to go with them |
+| Notes       | I solved the three problems with screenshots that were required and test cases to go with them |
 
 ## Some Sum
 
@@ -108,6 +108,10 @@
 | Difficulty       | 2.2                                      |
 | Link to original | https://open.kattis.com/problems/bishops |
 
+## Drinking Song
 
-
-https://open.kattis.com/problems/mailbox
+| Name             | Value                                         |
+| :--------------- | :-------------------------------------------- |
+| Name             | Drinking Song                                 |
+| Difficulty       | 2.2                                           |
+| Link to original | https://open.kattis.com/problems/drinkingsong |

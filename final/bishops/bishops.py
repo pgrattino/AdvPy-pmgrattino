@@ -1,8 +1,6 @@
-def main():
+def solve(n):
     while True:
         try:
-            n = input()
-
             if n == '':
                 break
             else:
@@ -13,7 +11,9 @@ def main():
         except KeyboardInterrupt:
             quit()
 
-
+def userIn():
+    n = input()
+    solve(n)
 
 if __name__ == "__main__":
-    main()
+    userIn()
