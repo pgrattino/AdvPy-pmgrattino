@@ -79,3 +79,35 @@
 | Name             | Cinema                                  |
 | Difficulty       | 2.4                                     |
 | Link to original | https://open.kattis.com/problems/cinema |
+
+### Final
+
+| Name        | Value                                                                                           |
+| :---------- | :---------------------------------------------------------------------------------------------- |
+| Name        | Final                                                                                           |
+| Description | Kattis Problems of varying difficulties                                                         |
+| Due Date    | 13-Dec-22                                                                                       |
+| Status      | In-Progress                                                                                     |
+| Location    | https://github.com/pgrattino/AdvPy-pmgrattino/tree/main/final                                   |
+| Self Grade  | NA                                                                                              |
+| Notes       | I solved the three problems with screenshots that were required with test cases to go with them |
+
+## Some Sum
+
+| Name             | Value                                    |
+| :--------------- | :--------------------------------------- |
+| Name             | Some Sum                                 |
+| Difficulty       | 2.0                                      |
+| Link to original | https://open.kattis.com/problems/somesum |
+
+## Bishops
+
+| Name             | Value                                    |
+| :--------------- | :--------------------------------------- |
+| Name             | Bishops                                  |
+| Difficulty       | 2.2                                      |
+| Link to original | https://open.kattis.com/problems/bishops |
+
+
+
+https://open.kattis.com/problems/mailbox
