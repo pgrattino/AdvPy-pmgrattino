@@ -82,15 +82,15 @@
 
 ### Final
 
-| Name        | Value                                                                                           |
-| :---------- | :---------------------------------------------------------------------------------------------- |
-| Name        | Final                                                                                           |
-| Description | Kattis Problems of varying difficulties                                                         |
-| Due Date    | 13-Dec-22                                                                                       |
-| Status      | In-Progress                                                                                     |
-| Location    | https://github.com/pgrattino/AdvPy-pmgrattino/tree/main/final                                   |
-| Self Grade  | NA                                                                                              |
-| Notes       | I solved the three problems with screenshots that were required and test cases to go with them |
+| Name        | Value                                                                                                        |
+| :---------- | :----------------------------------------------------------------------------------------------------------- |
+| Name        | Final                                                                                                        |
+| Description | Kattis Problems of varying difficulties                                                                      |
+| Due Date    | 13-Dec-22                                                                                                    |
+| Status      | In-Progress                                                                                                  |
+| Location    | https://github.com/pgrattino/AdvPy-pmgrattino/tree/main/final                                                |
+| Self Grade  | 90/100                                                                                                       |
+| Notes       | I solved the three problems with screenshots that were required and two test cases for Bishops and Some Sum. |
 
 ## Some Sum
 
