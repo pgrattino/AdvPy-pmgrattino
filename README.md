@@ -1,4 +1,5 @@
 # CSCI310 - pmgrattino
+## This is no longer a active repo for my CSCI310 course at Colorado Mesa University
 
 | Name                | Value                                         |
 | :------------------ | :-------------------------------------------- |
